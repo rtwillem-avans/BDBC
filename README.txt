@@ -9,10 +9,5 @@ Met bovenstaande werkwijze zal ook de aanwezige javascript goed werken.
 
 Om ook pdf's te kunnen genereren moet asciidoctor-pdf nog geinstalleerd worden:
 https://asciidoctor.org/docs/asciidoctor-pdf/
-Het te runnen commando luiste dan: asciidoctor-pdf index.adoc
-
-
-
-
-
-
+Het te runnen commando luiste dan: asciidoctor-pdf index.adoc.
+PS: De kleuren in de tekst komen (nog) niet goed door.
