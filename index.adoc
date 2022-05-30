@@ -15,7 +15,7 @@ _Gecreërd met https://asciidoctor.org/[AsciiDoctor,window=_blank]; gehost op ht
 == Persoonlijk(e) leerdoel(en)
 
 === Leeruitkomst
-De docent ontwerpt onderbouwd volgens een ontwerpmethodiek een (deel van een) reeks samenhangende leeractiviteiten binnen een vak, thema of leerlijn, en voert deze (deels) uit zodanig dat voor de student een optimale leersituatie/blend ontstaat.
+De docent ontwerpt, onderbouwd volgens een ontwerpmethodiek, een (deel van een) reeks samenhangende leeractiviteiten binnen een vak, thema of leerlijn, en voert deze (deels) uit zodanig dat voor de student een optimale leersituatie/blend ontstaat.
 
 === Leerdoel(en)
 [blue]#[Bob] +
@@ -40,7 +40,7 @@ De student is in staat om op een professionele wijze de scrum/agile methodiek to
 ==== Doelgroep
 image::mindmap_doelgroep.png[doelgroep]
 
-De gemiddelde (2e jaars) Informatica-studenten hebben een aantal kenmerken gemeenschappelijk die -volgens bovenstaande rubricering - vooral op sociaal, demografisch, professioneel en studiegebied liggen: het zijn b.v. vrijwel allemaal jonge mannen, uit de ‘regio’ afkomstig, redelijk uni-cultureel, ook privé veel in & met IT bezig (o.a. gamend, communicerend/samenwerkend via online platformen als Discord), niet al te veel spreiding in behaalde ec’s, niet overdreven planmatig maar wel flexibel, enz.
+De gemiddelde (2e jaars) Informatica-studenten hebben een aantal kenmerken gemeenschappelijk die -volgens bovenstaande rubricering - vooral op sociaal, demografisch, professioneel en studiegebied liggen: het zijn b.v. vrijwel allemaal jonge mannen, uit de ‘regio’ afkomstig, redelijk uni-cultureel, ook privé veel in & met IT bezig (o.a. gamend, communicerend/samenwerkend via online platformen als Discord), niet al te veel spreiding in behaalde EC’s, niet overdreven planmatig maar wel flexibel, enz.
 
 Er is een deelgroep van studenten met een vaak beperkte autistische functiebeperking. Voor hen is flexibiliteit soms wat lastiger, b.v. binnen teamwork, maar het mooie aan de studentenpopulatie is dat de rest van een projectgroep vaak wel weer zo flexibel is om dat op te vangen.y
 
@@ -92,7 +92,7 @@ De sprint reviews zijn belangrijke ‘ontmoetingsmomenten’ met extern betrokke
 ==== Ambitie 2025
 Meegenomen kenmerken uit de ambitie:
 
-* ‘samenleving werkt (steeds meer) vraaggestuurd ipv aanbodgestuurd’ <= probleem van opdrachtgever is de centrale vraag
+* ‘samenleving werkt (steeds meer) vraag gestuurd ipv aanbod gestuurd’ => probleem van opdrachtgever is de centrale vraag
 * 'multidisciplinariteit’ (=: MD) => er zijn meerdere rollen binnen het scrum-proces (scrum master,  product owner, ontwikkelteam) waardoor in meer of mindere mate sprake is van MD; dat de rol van product owner (deels) van buiten komt, is het duidelijkste MD-voorbeeld binnen dit onderwijs
 * ‘studenten werken in een kleinschalige omgeving waar we elkaar zien’
 * ‘ontwikkelen van wendbaarheid en veerkracht’ => (leren) werken op agile manier => ‘creëert’ wendbare en veerkrachtige professionals (mits op juiste manier gedaan)
@@ -153,7 +153,7 @@ De projectgroep is in staat om op een professionele wijze een sprint review uit 
 NB: De beroepscontext is steeds de sprint review sessie.
 
 *Gedrag*: De projectgroep demonstreert de gerealiseerde user stories aan de opdrachtgever, waarbij de opdrachtgever expliciet aangeeft welke user stories wel en niet geaccepteerd worden. +
-*Resultaat*: Voor alle user stories uit de sprint planning is helder welke afgerond én geaccpeteerd zijn, en welke nog aanvullend werk behoeven en wat dat aanvullende werk is.
+*Resultaat*: Voor alle user stories uit de sprint planning is helder welke afgerond én geaccepteerd zijn, en welke nog aanvullend werk behoeven en wat dat aanvullende werk is.
 
 *Gedrag*: De projectgroep demonstreert aan de opdrachtgever welke user stories niet gerealiseerd zijn en waarom niet, en stemt met de opdrachtgever af hoe met deze user stories verder verwerkt worden. +
 *Resultaat*: Voor alle user stories uit de sprint planning is helder welke niet afgerond zijn, en welke aanvullende werkzaamheden hiervoor benodigd zijn.
@@ -161,7 +161,7 @@ NB: De beroepscontext is steeds de sprint review sessie.
 *Gedrag*: De projectgroep maakt afspraken met de opdrachtgever welke user stories gerealiseerd zullen worden in de volgende sprint. +
 *Resultaat*: Voor de externe opdrachtgever is duidelijk wat de sprint planning van de aankomende sprint is.
 
-*Gedrag*: De sprint review sessie verloopt efficient en effectief. +
+*Gedrag*: De sprint review sessie verloopt efficiënt en effectief. +
 *Resultaat*: De voorbereiding is dusdanig dat de sessie meteen van start kan, de agenda is helder voor iedereen, de klant wordt actief betrokken bij het verloop van de sessie, en de communicatie/interactie met de opdrachtgever verloopt professioneel.
 
 === Ordening
@@ -174,11 +174,11 @@ Het basismodel van Backward Design bestaat uit drie fasen:
 1. *Leeruitkomsten* => zie boven
 a. Duurzame kennis: zie SWEN4-lessen mbt sprint reviews
 2.	*Toetsing* dat leeruitkomsten behaald worden
-a.	Uitvoeren van een sprint review voor een externe opdrachtgever conform de beoordelingscrietrai, incl. formuleren van (inhoudelijk!) correct feedback daarop
+a.	Uitvoeren van een sprint review voor een externe opdrachtgever conform de beoordelingscriteria, incl. formuleren van (inhoudelijk!) correct feedback daarop
 3.	*Leeractiviteiten*
 a. Te bereiken kennis/vaardigheden/procedures: zie taakanalyse
 b.	Lesmateriaal: zie SWEN4-lessen & beoordelingstabel (verderop)
-c.	Leer- en onderwijsactiviteiten: voorbereiden, uitvoeren en evalueren van sprint reviews, incl. formuleren en bespreen van feedback
+c.	Leer- en onderwijsactiviteiten: voorbereiden, uitvoeren en evalueren van sprint reviews, incl. formuleren en bespreken van feedback
 
 ===== Blended learning
 In de onderstaande tijdslijn is sprake van een 3-traps ‘raket':
@@ -189,7 +189,7 @@ In de onderstaande tijdslijn is sprake van een 3-traps ‘raket':
 
 Iedere cyclus verloopt volgens hetzelfde stramien:
 
-* Tijdens een projectbegeleidinsgles wordt de voorbereiding van de sprint review besproken (F2F, sync)
+* Tijdens een projectbegeleidingsles wordt de voorbereiding van de sprint review besproken (F2F, sync)
 * De projectgroep bereidt voert zelfstandig de voorbereiding op de sprint review uit (F2F of online, async)
 * De sprint review vindt plaats (online, sync, wordt opgenomen)
 * De feedbackgever formuleert de feedback aan de hand van criteria in een beoordelingsformulier en via markering in de opname (F2F of online, async)
@@ -228,14 +228,14 @@ image::mural_timeline.png[tijdslijn]
 ** [lime]#De beoordeling van SR’s telt mee, studenten stoppen er actief tijd & moeite in om goed te presteren.#
 ** [lime]#Bij iedere behalve de eerste SR wordt expliciet met studenten besproken wat de verbeterpunten zijn voor de volgende keer: ze moeten boven water halen hoe het de vorige keer ook weer ging, soms op basis van een opname van de SR (door Corona waren die gedwongen online en werden ze opgenomen, dus waren ze terug te kijken bij de bespreking).#
 * [lime]#*11: Geef feedback die leerlingen aan het werk zet*:#
-** [lime]#Na iedere SR wordt op basis van de rubric aangegeven wat goed ging maar zeker ook wat beter kan.moet. Dit gebeurt op basis van concrete voorbeelden, die soms aan de hand van de SR-opnames duidelijk aan te wijzen waren.#
+** [lime]#Na iedere SR wordt op basis van de rubric aangegeven wat goed ging maar zeker ook wat beter kan/moet. Dit gebeurt op basis van concrete voorbeelden, die soms aan de hand van de SR-opnames duidelijk aan te wijzen waren.#
 
 [lime]#Meer aandacht voor:#
 
 * [lime]#*4. Gebruik woord en beeld*:#
 ** [lime]#Er wordt nu expliciet, en niet meer toevallig door omstandigheden gedwongen, ingezet op woord (feedback in rubric-vorm) én beeld (beeldopname en daarin pinpointen wat top/tip is).#
 * [lime]#*5: Laat leerstof actief verwerken*:#
-** [lime]#Studenten gaan nu ook hun eigen SR’s beoordelen (aan hand van rubric, incl feedback & voorbeelden) en ook die van een andere rgoep (idem).#
+** [lime]#Studenten gaan nu ook hun eigen SR’s beoordelen (aan hand van rubric, incl feedback & voorbeelden) en ook die van een andere groep (idem).#
 * [lime]#*9: Afwisseling in oefentypes*:#
 ** [lime]#We gaan 3 verschillende vormen van beoordeling/feedback toepassen: 1. docent is actor, 2. groep is actor naar zichzelf, 3. groep is actor naar andere groep.#
 
@@ -243,7 +243,7 @@ image::mural_timeline.png[tijdslijn]
 ==== Opzet
 In de huidige module-opzet gaan steeds 2 projectgroepen aan de slag voor dezelfde opdrachtgever. Zij werken echter compleet separaat, dus ieder aan hun eigen oplossing voor de opdrachtgever, die dus aan het einde uit 2 oplossingen kan kiezen en gaandeweg ook door 2 groepen op nieuwe ideeën gebracht kan worden.
 
-In de nieuwe opzet wordt eigen rol van de student(en) groter en actiever door verschillende manieren te hanteren om eigen en andersmans prestaties te ‘beoordelen’. Dit gaan we doen:
+In de nieuwe opzet wordt eigen rol van de student(en) groter en actiever door verschillende manieren te hanteren om eigen en andermans prestaties te ‘beoordelen’. Dit gaan we doen:
 
 * door sprint-reviews te laten opnemen
 * 1e ronde: docent geeft op basis van beoordelingsformulier en opnames (en evt. live bijwonen) feedback
@@ -251,7 +251,7 @@ In de nieuwe opzet wordt eigen rol van de student(en) groter en actiever door ve
 * 3e ronde: studenten geven andere groep binnen hetzelfde project (werkend met zelfde beoordelingsformulier als docent in 1e ronde?) feedback op basis van hun opnames, en benoemen ook wat andere groep beter doet (en hoe zij dat zelf gaan toepassen) en wat andere groep kan verbeteren (en geven advies hoe zij dat zouden kunnen doen)
 * docenten ‘beoordelen’ bij ronde 2 en 3 de feedback van de groep (feedback op de feedback)
 
-=== Ontwikkeling vh materiaal
+=== Ontwikkeling van het materiaal
 We gaan de volgende  ICT-middelen inzetten: MS-Teams, FeedbackFruits (FBF), BrightSpace.
 
 Toelichting:
@@ -298,7 +298,7 @@ Je kunt FBF zo inrichten dat bij elk beoordelingscriterium tenminste 1 feedback-
 
 image::implementatie_10.png[]
 
-Bij het geven van feedback zijn alle beoordelingscritera zichtbaar voor de beoordelaar (zie rood kader).
+Bij het geven van feedback zijn alle beoordelingscriteria zichtbaar voor de beoordelaar (zie rood kader).
 
 image::implementatie_11.png[]
 
@@ -400,7 +400,7 @@ In deze fase draait het om het opstellen van leerdoelen en deze communiceren naa
 image::gulikers_baartman_fase1.png[fase 1 uit cyclus Gulikers Bartman]
 
 De rubric/het beoordelingsformuler zal (steeds) de leidraad zijn om de SR-leerdoelen toe te lichten (1e punt). +
-Aan het begin van het project worden (uiteraard) de SR-leerdoelen geintroduceerd en toegelicht. Gaanderweg het project is er steeds meer sprake van heractiveren van de leerdoelen (2e punt), doordat ze bij iedere SR de basis van de feedback vormen. +
+Aan het begin van het project worden (uiteraard) de SR-leerdoelen geïntroduceerd en toegelicht. Gaandeweg het project is er steeds meer sprake van heractiveren van de leerdoelen (2e punt), doordat ze bij iedere SR de basis van de feedback vormen. +
 Door de genoemde ‘3-traps raket’ krijgen de studenten een steeds actievere rol krijgen (4e punt).
 Doordat docent en studenten momenten in de opnames moeten markeren waarop hun feedback (tops en tips) betrekking heeft, worden ze gedwongen om specifieke voorbeelden te geven bij het formuleren van de feedback (5e punt).
 
@@ -443,22 +443,92 @@ image::gulikers_baartman_formatief_summatief.png[formatief naar summatief]
 De studenten moeten in de tweede SR laten zien dat ze de feedback van de eerste SR ter harte hebben genomen. De studenten moeten in de derde SR laten zien dat ze de feedback van de tweede SR ter harte hebben genomen (zie bovenstaand plaatje).
 
 === Evaluatie eigen leerdoelen
-Het is o.i. niet mogelijk om een betrouwbare evaluatie te doen op basis van cijfers, slagingspercentages, e.d. Daarvoor is het experiment te klein, is er geen controlegroep, is het aantal veranderende factoren (veel) te groot, enz.
+Het is o.i. niet mogelijk om een betrouwbare evaluatie te doen op basis van cijfers, slagingspercentages, e.d. Daarvoor is het experiment te klein, is er geen controlegroep, is het aantal veranderende factoren (veel) te groot, enz. +
 
 Daarom willen we via een vragenlijst en een bespreking met de studenten achterhalen wat zij vinden van deze inrichting: waar hebben ze het meest van geleerd, waaruit blijkt dat, enz. +
 Hierbij hanteren we de volgende vragen:
 
-* Geef per feedbackvorm tops & tips.
-* Welke van de 3 feedbackvormen was nuttigst en waarom (wat heb je daar dan expliciet bij opgestoken)?
+* Geef tops & tips voor de verschillende feedbackvormen.
+* Welke van de 3 feedbackvormen was nuttigst en waarom?
 * Is de volgorde van de 3 vormen logisch?
 * Voel je je toegerust om de 2e en 3e feedbackvorm uit te voeren? Zo nee, wat kom je tekort om dat wel goed te doen?
 
-== Reflectie
-_(op het ontwerp, leerdoelen en de leeruitkomst)_
+==== Geef tops & tips voor de verschillende feedbackvormen.
 
-* Vraagt meer tijd in vergelijking met oude situatie, als je als docent ook tijdens SR aanwezig bent
-* Als opname mislukt => geen feedback? (Al eens gebeurd …)
-** Check & dubbelcheck of recording loopt
-* Waar beoordeel je op als docent: inhoudelijk of (ook) op hoe feedback te geven?
+* [blue]#[Studenten Bob] Top: Het is heel exact waar het beter kan (door te pinpointen in de opnames).#
+* [blue]#[Studenten Bob] Tip: Als er (te) veel 'comments' gegeven worden, vallen deze over elkaar heen op het scherm en is de juiste lastig te openen. Dit nodigt niet uit om ook alle feedback daadwerkelijk te bekijken.#
+* [blue]#[Studenten Bob] Heel veel comments in de filmpjes nodigt sowieso niet uit om alles te bekijken. Studenten hebben ook behoefte aan overall feedback: waar zitten de belangrijkste verbeterpunten?#
+* [blue]#[Studenten Bob] Tip: Je moet van elk criterium iets vinden ('committen om te committen') => minder aparte criteria definiëren (bv. via 1 tekstveld). Dan ook minder klikken en wellicht ook minder tijdrovend.#
+* [lime]#[Studenten Rob] Top: Opnames zijn nuttig, je kunt dan heel goed pinpointen op concrete momenten waarop iets goed/fout gaat.#
+* [lime]#[Studenten Rob] Tip: Bij opnames is het risico dat er snel te veel van 'dezelfde' comments geplaatst worden. Dat zorgt voor herhaling van dezelfde feedback en maakt het onoverzichtelijk in de FBF-tool.#
+* [lime]#[Studenten Rob] Tip: 3x met opnames werken tijdens project is te veel.#
+
+==== Welke van de 3 feedbackvormen was nuttigst en waarom?
+
+* [blue]#[Studenten Bob] Feedback van de docent is toch het nuttigst: bij eigen feedback weet je namelijk niet zeker of het klopt. Dit speelt ook als collega-studenten van andere groepjes je werk beoordelen. Studenten hebben zelf niet het idee dat ze meer leren omdat ze zelf feedback moeten geven (ongeacht of dit op eigen handelen is of op handelen ander groepje).#
+* [lime]#[Studenten Rob] Feedback op jezelf geven is minder nuttig dan op een andere groep: men heeft het gevoel dat men van zichzelf wel weet wat goed en (met name) wat minder goed of fout ging.#$
+* [lime]#[Studenten Rob] Het is interessanter om naar de andere groep te kijken, zowel m.b.t. hoe zij de sprint review doen als ook wel om inhoudelijk mee te kunnen kijken (maar dat staat eigenlijk buiten het doel van het experiment ;-)).#
+* [lime]#[Studenten Rob] Studenten hebben niet het idee dat ze zich anders gedragen als ze weten dat de SR opgenomen wordt: ze doen daarvoor dus niet extra hun best.#
+* [lime]#[Studenten Rob] Na zelf geven van feedback is wel (duidelijk) behoefte om ook van de docent te horen wat zijn feedback is om zodoende zelf gegeven feedback naast die van de docent te kunnen leggen.#
+* [lime]#[Studenten Rob] Als het echt goed gaat, dan leveren opnames niet veel extra’s op.#
+
+==== Is de volgorde van de 3 vormen logisch?
+
+* [blue]#[Studenten Bob] Feedback geven op eigen werk is het minst logisch: je bent immers zelf bij de sessie geweest. Feedback geven op andere groep is logischer: daar ben je immers niet bij geweest.#
+* [blue]#[Studenten Bob] Beginnen met feedback van de docent is logisch (maar die wil men ook graag bij de andere vormen hebben).#
+* [lime]#[Studenten Rob] De volgorde is wel logisch, maar feedback geven aan de eigen groep vindt men duidelijk het minst nuttig (zie hiervoor).#
+
+==== Voel je je toegerust om de 2e en 3e feedbackvorm uit te voeren? Zo nee, wat kom je tekort om dat wel goed te doen?
+
+* [blue]#[Studenten Bob] Studenten voelen zich voldoende toegerust. Ze hebben inmiddels meerdere Sprint Reviews gedaan en weten wat van ze verwacht wordt. Toch blijft de onzekerheid er wel of ze het goed hebben gedaan (zie eerdere opmerking): ze willen graag bevestiging van de docent.#
+* [lime]#[Studenten Rob] Een handleiding of introductiefilmpje voor het als gebruiker werken met de FBF-tooling is wel handig.#
+* [lime]#[Studenten Rob] Wel goed dat je bij het feedback geven op de opnames de criteria bij de hand hebt in de FBF-tool. En de 1e opname waarbij docent feedback geeft, helpt ook.#
+
+
+== Reflectie, conclusie & advies
+
+=== Reflectie op ontwerp
+
+* 3 Feedbacksessies achter elkaar, opgenomen met eerst feedback door docent, dan door zichzelf en dan door een ander groepje, lijkt teveel/overkill. Studenten weten bij de tweede sessie al behoorlijk goed aan te kunnen geven wat al goed gaat en nog beter kan.
+* Het is een manier van feedback geven die best wat tijd vraagt, zowel voor docent als voor student: eerst werd de sessie bijgewoond en opgenomen, en daarna moet de opname nog een keer in zijn geheel bekeken worden => dubbele tijd in vergelijking met de oude situatie. Beter zou wellicht zijn om over het gehele project, waar 6 sprintreviews inzitten, 2 sprintreviews mbv deze tool te doen. Bijvoorbeeld de tweede of derde sprintreview op laten nemen, en feedback laten geven door docent, en vervolgens de derde of vierde door een collega-groepje laten reviewen. De docent hoeft bij deze sprintreviews dan ook niet aanwezig te zijn (minder tijdrovend voor docent).
+
+=== Reflectie op de leerdoelen en leeruitkomst studenten
+De inrichting van de tooling is ingericht op de doelen die voor de studenten gesteld zijn. Met behulp van betreffende tooling kan zeer concreet gepinpoint worden waar en waar niet voldaan wordt aan de criteria van de leerdoelen en of de uiteindelijke leeruitkomst uiteindelijk gerealiseerd wordt.
+
+=== Reflectie op leerdoelen Bob & Rob
+_Samenvattend leerdoel beiden: studenten actiever betrekken in het proces van formatieve feedback ter verbetering van het leerproces van de student._
+
+* [blue]#[Bob, pluspunt} Doordat de studenten ook zelf feedback moeten gegeven, worden ze actiever betrokken bij het leerproces.#
+* [blue]#[Bob, pluspunt} Heel duidelijk te pinpointen waar de studenten de mist in gaan of juist iets goeds doen: je kunt aangeven of feedback een 'suggestion' of een 'compliment' is.#
+* [blue]#[Bob, pluspunt} Als docent kun je zien of de studenten de feedback bekeken hebben, en studenten kunnen ook weer reageren op de gegeven feedback.#
+* [blue]#[Bob, minpunt] Geen goede mogelijkheid om overall feedback te geven (nodigt niet uit voor feedback ‘op helikopterview’).#
+* [blue]#[Bob, minpunt] Tijdrovend als je eerst zelf 'aanwezig' bent bij de online-sessie (live) en daarna de gehele sessie nogmaals moet doorlopen om de feedback te geven. Het werkt sneller als je zelf niet bij de sessie aanwezig bent, en dat zou eigenlijk ook niet hoeven.#
+* [blue]#[Bob, pluspunt] De vorm kan zo ook bij andere agile-elementen als daily standups toegepast worden.#
+* [blue]#[Bob, pluspunt} De FBF-tool is mooi geïntegreerd in BS en redelijk makkelijk in te richten.#
+* [blue]#[Bob, minpunt] De muisnavigatie en GUI zijn wel wat gebruikersonvriendelijk: veel klikken in de juiste volgorde om de feedback bij het juiste moment én criterium te plaatsen.#
+* [lime]#[Rob] Duidelijk dat studenten een actievere rol hebben: ze moesten immers 2 vd 3 keer zelf feedback geven.#
+* [lime]#[Rob] De door de studenten gegeven feedback was i.h.a. correct, en de sessies verliepen i.h.a ook goed, zeker de 3e sessie. Zoals eerder gezegd kun je op basis van dit experiment niet zo maar de conclusie aan verbinden dat deze vormen van feedback effectiever blijkt. De achterliggende theorie wijst wel in die richting.#
+* [lime]#[Rob] Vraagt meer tijd in vergelijking met oude situatie, als je als docent ook tijdens SR aanwezig bent.#
+* [lime]#[Rob] Als opname mislukt, dan is er geen feedback mogelijk (is tijdens proefsessie al gebeurd nl …). Dus check & dubbelcheck of recording loopt en lukt.#
+* [lime]#[Rob] Als docent beoordeel je op vakinhoudelijke correctheid, niet op hoe feedback te geven.#
+
+=== Conclusies
+
+* Werkwijze was betrekkelijk tijdrovend, dus goed opletten hoe je het in wil zetten: wees kieskeurig hoe vaak je het in wilt zetten, voor welke vormen en of je aanwezig wilt zijn.
+* Wees beperkt in je feedback: max. 1 tip en 1 top per criterium.
+* Studenten zichzelf feedback laten geven lijkt ‘dubbelop’: ze hebben zelf de sessie gedaan, en hebben best wel een beeld wat goed ging en beter kan (althans, dat claimen ze zelf maar blijkt wel overeen te komen met mening van docenten).
+* Voorafgaand aan het geven van de feedback is bekend worden met de tool wenselijk, bijvoorbeeld middels een handleiding of proefsessie.
+* Meest essentiële verbetering: met behulp van betreffende tooling kan zeer concreet gepinpoint op welk concreet moment/situatie de feedback betrekking heeft.
+
+=== Advies
+
+Zet de tool twee keer in het gehele project, dus twee van de zes sprintreviews, b.v. tweede en vierde sprintreview:
+ 
+* Sprint 1: fysiek, docent aanwezig, gebruik Word-rubric die achteraf gedeeld wordt met studenten. Doel is naast geven van feedback zelf o.a. om de criteria bekend te krijgen bij de studenten.
+* Sprint 2: online, docent niet aanwezig, opname zoals beschreven. Docent geeft feedback via de FBF-tool aan de hand van de opname.
+* Sprint 3: als sprint 1, met als doel naast feedback herhaling van de criteria.
+* Sprint 4: online, docent niet aanwezig, opname zoals beschreven. Groep geeft andere groep feedback via de FBF-tool.
+* Overige sprints fysiek, docent aanwezig, gebruik van Word-rubric. Als leerdoelen nog duidelijk niet bereikt zijn of lijken te worden, dan overwegen FBF-tool opnieuw in te zetten. Wie dan feedback geeft (docent of groep), hangt af van afstand tot het bereiken van de leerdoelen.
+
 
 
